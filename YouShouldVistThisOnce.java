@@ -7,7 +7,7 @@
         * Method
         * Object
         ```
-        Object
+        Ans-Object
         ```
         ## Q. Which of the following interface is used to declare core methods in java?
         * Set
@@ -15,7 +15,7 @@
         * Collection
         * Comparator
         ```
-        Collection
+        Ans-Collection
         ```
         ## Q. Which of these interface handle sequences?
         * Set
@@ -23,7 +23,7 @@
         * Comparator
         * Collection
         ```
-        List
+        Ans-List
         ```
         ## Q. Which of this interface must contain a unique element?
         * Set
@@ -31,7 +31,7 @@
         * Array
         * Collection
         ```
-        Set
+        Ans-Set
         ```
         ## Q. Which of the following declarations does not compile?
         A. double num1, int num2 = 0;
@@ -39,7 +39,7 @@
         C. int num1, num2 = 0;
         D. int num1 = 0, num2 = 0;
         ```
-        A. double num1, int num2 = 0;
+        Ans-A. double num1, int num2 = 0;
         ```
         ## Q. What is the output of following program?
         ```java
@@ -52,7 +52,7 @@ public class Test {
     }
 }
 ```
-        Output
+        Ans-Output
         ```
         32
         33
@@ -67,7 +67,7 @@ public class Test {
         ## Q. What is the output of following program?
         ```java
         import java.util.ArrayList;
-public class Test {
+    public class Test {
 
     public static void main(String[] args) {
         ArrayList arrList = new ArrayList();
@@ -79,7 +79,7 @@ public class Test {
     }
 }
 ```
-        Output
+        Ans-Output
         ```
         [1, 1, 1]
         ```
@@ -94,7 +94,7 @@ public class Test {
     }
 }
 ```
-        Output
+        Ans-Output
         ```java
         Exception in thread "main" java.lang.Error: Unresolved compilation problem:
         Type mismatch: cannot convert from int to boolean
